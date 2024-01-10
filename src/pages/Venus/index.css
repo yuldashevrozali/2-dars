@@ -1,0 +1,4 @@
+.buttons button:active,
+.buttons button:focus {
+    background: #EDA249;
+}

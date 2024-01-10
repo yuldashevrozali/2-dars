@@ -38,7 +38,6 @@ export default function Venus() {
         </div>
       </div>
       <div className="mercury-bottom">
-        {/* ... Remaining JSX ... */}
       </div>
     </div>
   )

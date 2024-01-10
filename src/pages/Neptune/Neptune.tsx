@@ -38,7 +38,22 @@ export default function Neptune() {
                 </div>
             </div>
             <div className="mercury-bottom">
-                {/* ... Remaining JSX ... */}
+                <div className="block">
+                    <p>ROTATION TIME</p>
+                    <h1>17.2 hours</h1>
+                </div>
+                <div className="block">
+                    <p>REVOLUTION TIME</p>
+                    <h1>84 years</h1>
+                </div>
+                <div className="block">
+                    <p>radius</p>
+                    <h1>25,362 km</h1>
+                </div>
+                <div className="block">
+                    <p>AVERAGE TEMP.</p>
+                    <h1>-195°c</h1>
+                </div>
             </div>
         </div>
     )
